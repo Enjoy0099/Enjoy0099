@@ -1,13 +1,13 @@
 [![FFFB](https://github.com/Enjoy0099/Enjoy0099/assets/97245841/6ada9dfa-3c8d-448f-8477-696502feeb3a)](https://github.com/Enjoy0099)
 <h1 align="center">Hi 👋, I'm Trada Kevin</h1>
-<h3 align="center">A passionate Game developer from India</h3>
+<h3 align="center">A passionate Game programmer</h3>
 <img align="right" alt="Game Developer" width="400" src="https://github.blog/wp-content/uploads/2021/10/game-off-gif.gif?resize=1200%2C425">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enjoy0099&label=Profile%20views&color=0e75b6&style=flat" alt="enjoy0099" /> </p>
 
 - 🔭 I’m currently working on **Cloud-Crashers**
 
-- 🌱 I’m currently learning **Unity3D, Unreal, C++, Godot**
+- 🌱 I’m currently learning **Unity3D, Unreal, Blender, Godot**
 
 - 👨‍💻 All of my projects are available at [https://trada.artstation.com/](https://trada.artstation.com/)
 
