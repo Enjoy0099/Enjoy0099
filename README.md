@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enjoy0099&show_icons=true&locale=en" alt="enjoy0099" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enjoy0099&mode=weekly" alt="enjoy0099" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enjoy0099&theme=tokyonight-duo&mode=weekly" alt="enjoy0099" /></p>
